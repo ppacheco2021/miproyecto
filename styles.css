@@ -1,0 +1,9 @@
+#contenedor{
+    padding: 15px;
+    display :inline-block;
+    background-color: gray;
+    width: 740px;
+    height: 450px;
+   overflow: hidden;
+ 
+}
