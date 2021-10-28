@@ -7,3 +7,22 @@
    overflow: hidden;
  
 }
+
+#barra_lateral{
+    vertical-align: top;
+    padding: 5px;
+    margin: 10px;
+    display :inline-block;
+    background: royalblue;
+    width: 100px;
+    height: 200px;
+    }
+
+#principal{
+    padding: 15px;
+    background-color: red;
+    display :inline-block;
+    width: 540px;
+    overflow: hidden;
+    height: auto;
+ }
